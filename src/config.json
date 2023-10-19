@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "free-eigenlayer.com",
+    "free-eigenlayer.net",
+    "free-eigenlayer.online",
     "app-token.com",
     "app-token.net",
     "app-token.world",
